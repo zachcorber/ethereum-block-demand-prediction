@@ -1,0 +1,9 @@
+# Ignore generated outputs
+outputs/
+
+# Ignore environment variables file
+.env
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
