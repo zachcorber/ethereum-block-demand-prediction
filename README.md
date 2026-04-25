@@ -30,7 +30,7 @@ After running the pipeline, you should see files created under:
 ### 1) Clone the repository
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone [<REPO_URL>](https://github.com/zachcorber/ethereum-block-demand-prediction)
 cd ethereum-block-demand-prediction
 ```
 
